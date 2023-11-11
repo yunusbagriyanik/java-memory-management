@@ -34,3 +34,7 @@
 7. This return value is assigned to the `sum` variable and printed to the console.
 
 ![Java Memory Management](resources/java-memory-management.png)
+
+## User Builder
+
+![User Builder Stack Heap](resources/user-builder-stack-heap.png)
